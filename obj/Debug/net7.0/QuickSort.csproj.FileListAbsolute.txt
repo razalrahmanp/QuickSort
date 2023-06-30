@@ -1,0 +1,15 @@
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.csproj.AssemblyReference.cache
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.AssemblyInfoInputs.cache
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.AssemblyInfo.cs
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.csproj.CoreCompileInputs.cache
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\bin\Debug\net7.0\QuickSort.exe
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\bin\Debug\net7.0\QuickSort.deps.json
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\bin\Debug\net7.0\QuickSort.runtimeconfig.json
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\bin\Debug\net7.0\QuickSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\bin\Debug\net7.0\QuickSort.pdb
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\obj\Debug\net7.0\refint\QuickSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.pdb
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\obj\Debug\net7.0\QuickSort.genruntimeconfig.cache
+G:\Razal\Sourcecodes\C#\Algorithms\QuickSort\obj\Debug\net7.0\ref\QuickSort.dll
